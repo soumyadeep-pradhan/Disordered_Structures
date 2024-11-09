@@ -1,1 +1,4 @@
-# Disordered_Structures
+# Ordering_Disordered_Structures_using_Pymatgen
+
+1. OrderDisorderedStructureTransformation
+2. EnumerateStructureTransformation
